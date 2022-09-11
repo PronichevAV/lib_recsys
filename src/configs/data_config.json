@@ -1,0 +1,6 @@
+{
+  "items_path": "data/train/items.csv",
+  "users_path": "data/train/users.csv",
+  "interactions_path": "data/train/train_transactions_extended.csv",
+  "submissions_path": "data/submissions"
+}
